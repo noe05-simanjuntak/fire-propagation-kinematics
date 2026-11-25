@@ -4,7 +4,7 @@ A computer vision and visual metrology pipeline built with **Ultralytics YOLOv8*
 
 ## Sample Output
 
-!\[Fire Propagation Kinematics HUD\](assets/Detection_Result.jpg)
+!\[fire-propagation-kinematics HUD\](assets/Detection_Result.jpg)
 
 ## Key Features & Tracked Metrics
 
